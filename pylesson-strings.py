@@ -1,0 +1,6 @@
+first_name = input ("enter your first name: ")
+last_name = input ("enter your last name: ")
+print (first_name + last_name)
+print (first_name + " " + last_name)
+print (first_name.capitalize() + " " + last_name.capitalize())
+print (first_name.upper() + " " + last_name.upper())
